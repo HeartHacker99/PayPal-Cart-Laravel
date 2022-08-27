@@ -63,24 +63,24 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-############################################################################################################
+##########################################################################################################
 
-Usage ::
+Usage :: </br></br>
 
-1- git clone https://github.com/HeartHacker99/PayPal-Cart-Laravel.git
-2- cd PayPal-Cart-Laravel
-3- composer update
-4- Change .env.example to .env 
-5- add Database name and credentials in .env file e.g 
+1- git clone https://github.com/HeartHacker99/PayPal-Cart-Laravel.git </br>
+2- cd PayPal-Cart-Laravel </br>
+3- composer update </br>
+4- Change .env.example to .env  </br>
+5- add Database name and credentials in .env file e.g  </br>
+</br>
+DB_DATABASE=cart_paypal_laravel  </br>
+DB_USERNAME=root  </br>
+DB_PASSWORD=  </br>
 
-DB_DATABASE=cart_paypal_laravel
-DB_USERNAME=root
-DB_PASSWORD=
-
-6- npm run dev
-7- php artisan serve
+6- npm run dev  </br>
+7- php artisan serve </br></br>
 
 
-############################################################################################################
+##########################################################################################################
 
 
